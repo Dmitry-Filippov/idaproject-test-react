@@ -1,8 +1,8 @@
 # idaproject-test-react
 
-### тестовое задание, выполненное на React.js 
+### тестовое задание, выполненное на React.js
 
-quiq start:
+quick start:
 
 npm start (for development mode)
 
