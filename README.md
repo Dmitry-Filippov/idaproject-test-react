@@ -4,6 +4,8 @@
 
 quick start:
 
-npm start (for development mode)
+`npm install`
 
-npm run build (for build)
+`npm start` (for development mode)
+
+`npm run build` (for build)
